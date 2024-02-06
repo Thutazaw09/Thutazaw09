@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Lucus Zaw 👋
 
 <!--
 **Thutazaw09/Thutazaw09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile! Thanks for visiting and I'd love to connect!
